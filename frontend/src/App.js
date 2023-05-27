@@ -1,4 +1,5 @@
 import './App.css';
+import { getter } from './Utils';
 
 function App() {
     return (
